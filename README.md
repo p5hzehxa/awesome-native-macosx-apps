@@ -6,15 +6,25 @@ Discover high-quality macOS apps built with native technologies (Swift, SwiftUI,
 
 ---
 
-## 💎 Sponsors
-
-**[DisplayBuddy](https://displaybuddy.app/?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=sponsor)** — Control the real brightness of your monitor directly from your Mac. No need to touch the clunky buttons.
-
-<a href="https://displaybuddy.app/?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=sponsor" target="_blank"><img src="resources/sponsers/display-buddy.png" alt="DisplayBuddy" width="800"/></a>
+Reach thousands of Mac power users by sponsoring this list. Contact us at [sponsor@opensaas.directory](mailto:sponsor@opensaas.directory)
 
 ---
 
-Reach thousands of Mac power users by sponsoring this list. Contact us at [sponsor@opensaas.directory](mailto:sponsor@opensaas.directory)
+## 📬 Get Monthly Native App Picks in Your Inbox
+
+Subscribe to our newsletter and get 5-10 handpicked native macOS apps delivered monthly.
+
+**What you'll get:**
+
+- 🎯 Curated native apps (no Electron bloat)
+- 💎 Hidden gems you won't find elsewhere
+- 🆓 Free & open-source alternatives
+- 📊 App comparisons & recommendations
+- 🔧 Tips for getting the most out of your Mac
+
+📖 **[Subscribe to the Newsletter →](https://nativemacapps.substack.com/)**
+
+_Join early subscribers and never miss a great native Mac app again. Unsubscribe anytime._
 
 ---
 
@@ -22,7 +32,6 @@ Reach thousands of Mac power users by sponsoring this list. Contact us at [spons
 
 **Getting Started**
 - [What Makes an App "Native"?](#what-makes-an-app-native)
-- [Newsletter](#-get-monthly-native-app-picks-in-your-inbox)
 - [Electron App Detector](#-electron-app-detector)
 - [New to Mac? Start Here](#-new-to-mac-start-here)
 
@@ -74,24 +83,6 @@ Apps on this list are:
 - ✅ Feel fast and responsive
 - ❌ NOT Electron or web-wrapper apps
 - ❌ NOT resource-heavy cross-platform apps
-
----
-
-## 📬 Get Monthly Native App Picks in Your Inbox
-
-Subscribe to our newsletter and get 5-10 handpicked native macOS apps delivered monthly.
-
-**What you'll get:**
-
-- 🎯 Curated native apps (no Electron bloat)
-- 💎 Hidden gems you won't find elsewhere
-- 🆓 Free & open-source alternatives
-- 📊 App comparisons & recommendations
-- 🔧 Tips for getting the most out of your Mac
-
-📖 **[Subscribe to the Newsletter →](https://nativemacapps.substack.com/)**
-
-_Join early subscribers and never miss a great native Mac app again. Unsubscribe anytime._
 
 ---
 
